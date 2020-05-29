@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php-curl-class/php-curl-class": "^8.8",
+        "digitalnature/php-ref": "^1.3",
+        "fzaninotto/faker": "^1.9",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
